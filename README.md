@@ -17,4 +17,4 @@ public class SampleClass : MonoBehaviour
 }
 
 ```
-![screenshot](https://raw.githubusercontent.com/fuqunaga/fuqunaga.github.io/master/LabelNamePropertyAttribute/sampleclass.png)
+![screenshot](sampleclass.png)
